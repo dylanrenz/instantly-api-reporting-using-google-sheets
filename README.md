@@ -7,7 +7,7 @@ This project provides a streamlined solution for fetching analytics data from th
 - **Automated Data Retrieval**: Schedule data retrieval from the Instantly API using Python scripts.
 - **Data Transformation**: Convert the retrieved data into a format suitable for Google Sheets.
 - **Google Sheets Integration**: Append the data to a specified Google Sheets document for easy visualization and analysis.
-- **Customizable**: Easily customize the script to fit your specific Instantly campaign IDs and date ranges.
+- **Customizable**: Easily customize the script to fit your specific Instantly reporting needs.
 - **Secure**: Utilizes secure authentication methods for accessing the Instantly API and Google Sheets.
 
 ### Getting Started:
