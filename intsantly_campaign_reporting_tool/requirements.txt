@@ -1,0 +1,4 @@
+gspread==6.1.2
+protobuf==5.27.1
+Requests==2.32.3
+schedule==1.2.1
